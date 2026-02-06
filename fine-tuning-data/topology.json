@@ -1,0 +1,4821 @@
+{
+  "lines": [
+    {
+      "line_id": "airport_capital",
+      "line_name": "首都机场线",
+      "stations": [
+        {
+          "id": "AIRPORT_CAPITAL_ST_001",
+          "name": "北新桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "AIRPORT_CAPITAL_ST_002",
+          "name": "东直门",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "AIRPORT_CAPITAL_ST_003",
+          "name": "三元桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "AIRPORT_CAPITAL_ST_004",
+          "name": "3号航站楼",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "AIRPORT_CAPITAL_ST_005",
+          "name": "2号航站楼",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "line_id": "airport_daxing",
+      "line_name": "大兴机场线",
+      "stations": [
+        {
+          "id": "AIRPORT_DAXING_ST_001",
+          "name": "草桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "AIRPORT_DAXING_ST_002",
+          "name": "磁各庄",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "AIRPORT_DAXING_ST_003",
+          "name": "新宫",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "AIRPORT_DAXING_ST_004",
+          "name": "大兴机场",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "line_id": "changping",
+      "line_name": "昌平线",
+      "stations": [
+        {
+          "id": "CHANGPING_ST_001",
+          "name": "西二旗",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "CHANGPING_ST_002",
+          "name": "生命科学园",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "CHANGPING_ST_003",
+          "name": "朱辛庄",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "CHANGPING_ST_004",
+          "name": "育知路",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "CHANGPING_ST_005",
+          "name": "回龙观",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "CHANGPING_ST_006",
+          "name": "霍营",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "CHANGPING_ST_007",
+          "name": "育新",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "CHANGPING_ST_008",
+          "name": "南邵",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "CHANGPING_ST_009",
+          "name": "昌平东关",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "CHANGPING_ST_010",
+          "name": "昌平",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "CHANGPING_ST_011",
+          "name": "昌平西关",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "line_id": "fangshan",
+      "line_name": "房山线",
+      "stations": [
+        {
+          "id": "FANGSHAN_ST_001",
+          "name": "苏庄",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "FANGSHAN_ST_002",
+          "name": "篱笆房",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "FANGSHAN_ST_003",
+          "name": "稻田",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "FANGSHAN_ST_004",
+          "name": "长阳",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "FANGSHAN_ST_005",
+          "name": "广阳城",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "FANGSHAN_ST_006",
+          "name": "良乡大学城西",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "FANGSHAN_ST_007",
+          "name": "良乡大学城",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "FANGSHAN_ST_008",
+          "name": "良乡大学城北",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "line_id": "line_1",
+      "line_name": "1号线（含八通线）‌",
+      "stations": [
+        {
+          "id": "LINE_1_ST_001",
+          "name": "苹果园",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_002",
+          "name": "古城",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_003",
+          "name": "八角游乐园",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_004",
+          "name": "八宝山",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_005",
+          "name": "玉泉路",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_006",
+          "name": "五棵松",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_007",
+          "name": "万寿路",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_008",
+          "name": "公主坟",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_009",
+          "name": "军事博物馆",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_010",
+          "name": "木樨地",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_011",
+          "name": "南礼士路",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_012",
+          "name": "复兴门",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_013",
+          "name": "西单",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_014",
+          "name": "天安门西",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_015",
+          "name": "天安门东",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_016",
+          "name": "王府井",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_017",
+          "name": "东单",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_018",
+          "name": "建国门",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_019",
+          "name": "永安里",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_020",
+          "name": "国贸",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_021",
+          "name": "大望路",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_022",
+          "name": "四惠",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_023",
+          "name": "四惠东",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_024",
+          "name": "高碑店",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_025",
+          "name": "传媒大学",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_026",
+          "name": "双桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_027",
+          "name": "管庄",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_028",
+          "name": "八里桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_029",
+          "name": "通州北苑",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_030",
+          "name": "果园",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_031",
+          "name": "九棵树",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_032",
+          "name": "梨园",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_033",
+          "name": "临河里",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_034",
+          "name": "土桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_035",
+          "name": "花庄",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_1_ST_036",
+          "name": "环球度假区",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "line_id": "line_10",
+      "line_name": "10号线",
+      "stations": [
+        {
+          "id": "LINE_10_ST_001",
+          "name": "巴沟",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_002",
+          "name": "苏州街",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_003",
+          "name": "海淀黄庄",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_004",
+          "name": "知春里",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_005",
+          "name": "知春路",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_006",
+          "name": "西土城",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_007",
+          "name": "牡丹园",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_008",
+          "name": "健德门",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_009",
+          "name": "北土城",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_010",
+          "name": "安贞门",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_011",
+          "name": "惠新西街南口",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_012",
+          "name": "芍药居",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_013",
+          "name": "太阳宫",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_014",
+          "name": "三元桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_015",
+          "name": "亮马桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_016",
+          "name": "农业展览馆",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_017",
+          "name": "团结湖",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_018",
+          "name": "呼家楼",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_019",
+          "name": "金台夕照",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_020",
+          "name": "国贸",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_021",
+          "name": "双井",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_022",
+          "name": "劲松",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_023",
+          "name": "潘家园",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_024",
+          "name": "十里河",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_025",
+          "name": "分钟寺",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_026",
+          "name": "成寿寺",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_027",
+          "name": "宋家庄",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_028",
+          "name": "石榴庄",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_029",
+          "name": "大红门",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_030",
+          "name": "角门东",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_031",
+          "name": "角门西",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_032",
+          "name": "草桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_033",
+          "name": "纪家庙",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_034",
+          "name": "首经贸",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_035",
+          "name": "丰台站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_036",
+          "name": "泥洼",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_037",
+          "name": "西局",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_038",
+          "name": "六里桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_039",
+          "name": "莲花桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_040",
+          "name": "公主坟",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_041",
+          "name": "西钓鱼台",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_042",
+          "name": "慈寿寺",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_043",
+          "name": "车道沟",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_044",
+          "name": "长春桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_045",
+          "name": "火器营",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_046",
+          "name": "巴沟",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_047",
+          "name": "金安桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_048",
+          "name": "四道桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_049",
+          "name": "桥户营",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_050",
+          "name": "上岸",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_051",
+          "name": "栗园庄",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_052",
+          "name": "小园",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_10_ST_053",
+          "name": "石厂",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "line_id": "line_11",
+      "line_name": "11号线",
+      "stations": [
+        {
+          "id": "LINE_11_ST_001",
+          "name": "模式口",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_11_ST_002",
+          "name": "金安桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_11_ST_003",
+          "name": "北辛安",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_11_ST_004",
+          "name": "新首钢",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "line_id": "line_12",
+      "line_name": "12号线",
+      "stations": [
+        {
+          "id": "LINE_12_ST_001",
+          "name": "四季青桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_12_ST_002",
+          "name": "蓝靛厂",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_12_ST_003",
+          "name": "长春桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_12_ST_004",
+          "name": "苏州桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_12_ST_005",
+          "name": "人民大学",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_12_ST_006",
+          "name": "大钟寺",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_12_ST_007",
+          "name": "蓟门桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_12_ST_008",
+          "name": "北太平庄",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_12_ST_009",
+          "name": "马甸桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_12_ST_010",
+          "name": "安华桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_12_ST_011",
+          "name": "安贞桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_12_ST_012",
+          "name": "和平西桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_12_ST_013",
+          "name": "光熙门",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_12_ST_014",
+          "name": "西坝河",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_12_ST_015",
+          "name": "三元桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_12_ST_016",
+          "name": "将台西",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_12_ST_017",
+          "name": "高家园",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "line_id": "line_13",
+      "line_name": "13号线",
+      "stations": [
+        {
+          "id": "LINE_13_ST_001",
+          "name": "西直门",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_13_ST_002",
+          "name": "大钟寺",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_13_ST_003",
+          "name": "知春路",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_13_ST_004",
+          "name": "五道口",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_13_ST_005",
+          "name": "上地",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_13_ST_006",
+          "name": "清河站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_13_ST_007",
+          "name": "西二旗",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_13_ST_008",
+          "name": "龙泽",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_13_ST_009",
+          "name": "回龙观",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_13_ST_010",
+          "name": "霍营",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_13_ST_011",
+          "name": "立水桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_13_ST_012",
+          "name": "北苑",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_13_ST_013",
+          "name": "望京西",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_13_ST_014",
+          "name": "芍药居",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_13_ST_015",
+          "name": "光熙门",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_13_ST_016",
+          "name": "柳芳",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_13_ST_017",
+          "name": "东直门",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "line_id": "line_2",
+      "line_name": "2号线",
+      "stations": [
+        {
+          "id": "LINE_2_ST_001",
+          "name": "西直门",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_2_ST_002",
+          "name": "积水潭",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_2_ST_003",
+          "name": "鼓楼大街",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_2_ST_004",
+          "name": "安定门",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_2_ST_005",
+          "name": "雍和宫",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_2_ST_006",
+          "name": "东直门",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_2_ST_007",
+          "name": "东四十条",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_2_ST_008",
+          "name": "朝阳门",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_2_ST_009",
+          "name": "建国门",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_2_ST_010",
+          "name": "北京站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_2_ST_011",
+          "name": "崇文门",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_2_ST_012",
+          "name": "前门",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_2_ST_013",
+          "name": "和平门",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_2_ST_014",
+          "name": "宣武门",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_2_ST_015",
+          "name": "长椿街",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_2_ST_016",
+          "name": "复兴门",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_2_ST_017",
+          "name": "阜成门",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_2_ST_018",
+          "name": "车公庄",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "line_id": "line_3",
+      "line_name": "3号线",
+      "stations": [
+        {
+          "id": "LINE_3_ST_001",
+          "name": "东四十条",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_3_ST_002",
+          "name": "工人体育场",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_3_ST_003",
+          "name": "团结湖",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_3_ST_004",
+          "name": "朝阳公园",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_3_ST_005",
+          "name": "石佛营",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_3_ST_006",
+          "name": "五福堂",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_3_ST_007",
+          "name": "德茂",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_3_ST_008",
+          "name": "瀛海",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "line_id": "line_4",
+      "line_name": "4号线",
+      "stations": [
+        {
+          "id": "LINE_4_ST_001",
+          "name": "天宫院站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_002",
+          "name": "生物医药基地站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_003",
+          "name": "义和庄站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_004",
+          "name": "黄村火车站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_005",
+          "name": "黄村西大街站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_006",
+          "name": "清源路站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_007",
+          "name": "枣园站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_008",
+          "name": "高米店南站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_009",
+          "name": "高米店北站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_010",
+          "name": "西红门站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_011",
+          "name": "新宫站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_012",
+          "name": "公益西桥站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_013",
+          "name": "角门西站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_014",
+          "name": "马家堡站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_015",
+          "name": "北京南站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_016",
+          "name": "陶然亭站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_017",
+          "name": "菜市口站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_018",
+          "name": "宣武门站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_019",
+          "name": "西单站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_020",
+          "name": "灵境胡同站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_021",
+          "name": "西四站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_022",
+          "name": "平安里站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_023",
+          "name": "新街口站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_024",
+          "name": "西直门站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_025",
+          "name": "动物园站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_026",
+          "name": "国家图书馆站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_027",
+          "name": "魏公村站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_028",
+          "name": "人民大学站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_029",
+          "name": "海淀黄庄站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_030",
+          "name": "中关村站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_031",
+          "name": "北京大学东门站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_032",
+          "name": "圆明园站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_033",
+          "name": "西苑站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_034",
+          "name": "北宫门站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_4_ST_035",
+          "name": "安河桥北站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "line_id": "line_5",
+      "line_name": "5号线",
+      "stations": [
+        {
+          "id": "LINE_5_ST_001",
+          "name": "天通苑北",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_5_ST_002",
+          "name": "天通苑",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_5_ST_003",
+          "name": "天通苑南",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_5_ST_004",
+          "name": "立水桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_5_ST_005",
+          "name": "立水桥南",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_5_ST_006",
+          "name": "北苑路北",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_5_ST_007",
+          "name": "大屯路东",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_5_ST_008",
+          "name": "惠新西街北口",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_5_ST_009",
+          "name": "惠新西街南口",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_5_ST_010",
+          "name": "和平西桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_5_ST_011",
+          "name": "和平里北街",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_5_ST_012",
+          "name": "雍和宫",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_5_ST_013",
+          "name": "北新桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_5_ST_014",
+          "name": "张自忠路",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_5_ST_015",
+          "name": "东四",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_5_ST_016",
+          "name": "灯市口",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_5_ST_017",
+          "name": "东单",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_5_ST_018",
+          "name": "崇文门",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_5_ST_019",
+          "name": "磁器口",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_5_ST_020",
+          "name": "天坛东门",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_5_ST_021",
+          "name": "蒲黄榆",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_5_ST_022",
+          "name": "刘家窑",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_5_ST_023",
+          "name": "宋家庄",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "line_id": "line_6",
+      "line_name": "6号线",
+      "stations": [
+        {
+          "id": "LINE_6_ST_001",
+          "name": "金安桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_002",
+          "name": "苹果园",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_003",
+          "name": "杨庄",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_004",
+          "name": "西黄村",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_005",
+          "name": "廖公庄",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_006",
+          "name": "田村",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_007",
+          "name": "海淀五路居",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_008",
+          "name": "慈寿寺",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_009",
+          "name": "花园桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_010",
+          "name": "白石桥南",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_011",
+          "name": "二里沟",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_012",
+          "name": "车公庄西",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_013",
+          "name": "车公庄",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_014",
+          "name": "平安里",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_015",
+          "name": "北海北",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_016",
+          "name": "南锣鼓巷",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_017",
+          "name": "长春桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_018",
+          "name": "火器营",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_019",
+          "name": "巴沟",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_020",
+          "name": "苏州街",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_021",
+          "name": "海淀黄庄",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_022",
+          "name": "知春里",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_023",
+          "name": "知春路",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_024",
+          "name": "西土城",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_025",
+          "name": "牡丹园",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_026",
+          "name": "健德门",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_027",
+          "name": "北土城",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_028",
+          "name": "安贞门",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_029",
+          "name": "惠新西街南口",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_030",
+          "name": "芍药居",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_031",
+          "name": "太阳宫",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_032",
+          "name": "三元桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_033",
+          "name": "亮马桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_034",
+          "name": "农业展览馆",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_035",
+          "name": "团结湖",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_036",
+          "name": "呼家楼",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_037",
+          "name": "金台夕照",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_038",
+          "name": "国贸",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_039",
+          "name": "双井",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_040",
+          "name": "劲松",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_041",
+          "name": "潘家园",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_042",
+          "name": "十里河",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_043",
+          "name": "分钟寺",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_044",
+          "name": "成寿寺",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_045",
+          "name": "宋家庄",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_046",
+          "name": "石榴庄",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_047",
+          "name": "大红门",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_048",
+          "name": "角门东",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_049",
+          "name": "角门西",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_050",
+          "name": "草桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_051",
+          "name": "纪家庙",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_6_ST_052",
+          "name": "首经贸",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "line_id": "line_9",
+      "line_name": "9号线",
+      "stations": [
+        {
+          "id": "LINE_9_ST_001",
+          "name": "郭公庄",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_9_ST_002",
+          "name": "丰台科技园",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_9_ST_003",
+          "name": "科怡路",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_9_ST_004",
+          "name": "丰台南路",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_9_ST_005",
+          "name": "丰台东大街",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_9_ST_006",
+          "name": "七里庄",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_9_ST_007",
+          "name": "六里桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_9_ST_008",
+          "name": "六里桥东",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_9_ST_009",
+          "name": "北京西站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_9_ST_010",
+          "name": "军事博物馆",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_9_ST_011",
+          "name": "白堆子",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_9_ST_012",
+          "name": "白石桥南",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "LINE_9_ST_013",
+          "name": "国家图书馆",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "line_id": "s1",
+      "line_name": "s1线",
+      "stations": [
+        {
+          "id": "S1_ST_001",
+          "name": "石厂",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "S1_ST_002",
+          "name": "小园",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "S1_ST_003",
+          "name": "栗园庄",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "S1_ST_004",
+          "name": "上岸",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "S1_ST_005",
+          "name": "桥户营",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "S1_ST_006",
+          "name": "四道桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "S1_ST_007",
+          "name": "金安桥",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "S1_ST_008",
+          "name": "苹果园",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        }
+      ]
+    },
+    {
+      "line_id": "yizhuang",
+      "line_name": "亦庄线",
+      "stations": [
+        {
+          "id": "YIZHUANG_ST_001",
+          "name": "宋家庄",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "YIZHUANG_ST_002",
+          "name": "次渠北",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "YIZHUANG_ST_003",
+          "name": "次渠",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "YIZHUANG_ST_004",
+          "name": "亦庄文化园",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "YIZHUANG_ST_005",
+          "name": "荣昌东街",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "YIZHUANG_ST_006",
+          "name": "亦庄火车站",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "YIZHUANG_ST_007",
+          "name": "同济南路",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "YIZHUANG_ST_008",
+          "name": "同德路",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "YIZHUANG_ST_009",
+          "name": "定海园",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "YIZHUANG_ST_010",
+          "name": "博兴路",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        },
+        {
+          "id": "YIZHUANG_ST_011",
+          "name": "荣京东街",
+          "lat": null,
+          "lon": null,
+          "attributes": {}
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "edge_id": "airport_capital_E_001",
+      "source": "AIRPORT_CAPITAL_ST_001",
+      "target": "AIRPORT_CAPITAL_ST_002",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "airport_capital_E_002",
+      "source": "AIRPORT_CAPITAL_ST_002",
+      "target": "AIRPORT_CAPITAL_ST_003",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "airport_capital_E_003",
+      "source": "AIRPORT_CAPITAL_ST_003",
+      "target": "AIRPORT_CAPITAL_ST_004",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "airport_capital_E_004",
+      "source": "AIRPORT_CAPITAL_ST_004",
+      "target": "AIRPORT_CAPITAL_ST_005",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "airport_daxing_E_001",
+      "source": "AIRPORT_DAXING_ST_001",
+      "target": "AIRPORT_DAXING_ST_002",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "airport_daxing_E_002",
+      "source": "AIRPORT_DAXING_ST_002",
+      "target": "AIRPORT_DAXING_ST_003",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "airport_daxing_E_003",
+      "source": "AIRPORT_DAXING_ST_003",
+      "target": "AIRPORT_DAXING_ST_004",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "changping_E_001",
+      "source": "CHANGPING_ST_001",
+      "target": "CHANGPING_ST_002",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "changping_E_002",
+      "source": "CHANGPING_ST_002",
+      "target": "CHANGPING_ST_003",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "changping_E_003",
+      "source": "CHANGPING_ST_003",
+      "target": "CHANGPING_ST_004",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "changping_E_004",
+      "source": "CHANGPING_ST_004",
+      "target": "CHANGPING_ST_005",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "changping_E_005",
+      "source": "CHANGPING_ST_005",
+      "target": "CHANGPING_ST_006",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "changping_E_006",
+      "source": "CHANGPING_ST_006",
+      "target": "CHANGPING_ST_007",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "changping_E_007",
+      "source": "CHANGPING_ST_007",
+      "target": "CHANGPING_ST_008",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "changping_E_008",
+      "source": "CHANGPING_ST_008",
+      "target": "CHANGPING_ST_009",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "changping_E_009",
+      "source": "CHANGPING_ST_009",
+      "target": "CHANGPING_ST_010",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "changping_E_010",
+      "source": "CHANGPING_ST_010",
+      "target": "CHANGPING_ST_011",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "fangshan_E_001",
+      "source": "FANGSHAN_ST_001",
+      "target": "FANGSHAN_ST_002",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "fangshan_E_002",
+      "source": "FANGSHAN_ST_002",
+      "target": "FANGSHAN_ST_003",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "fangshan_E_003",
+      "source": "FANGSHAN_ST_003",
+      "target": "FANGSHAN_ST_004",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "fangshan_E_004",
+      "source": "FANGSHAN_ST_004",
+      "target": "FANGSHAN_ST_005",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "fangshan_E_005",
+      "source": "FANGSHAN_ST_005",
+      "target": "FANGSHAN_ST_006",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "fangshan_E_006",
+      "source": "FANGSHAN_ST_006",
+      "target": "FANGSHAN_ST_007",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "fangshan_E_007",
+      "source": "FANGSHAN_ST_007",
+      "target": "FANGSHAN_ST_008",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_001",
+      "source": "LINE_1_ST_001",
+      "target": "LINE_1_ST_002",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_002",
+      "source": "LINE_1_ST_002",
+      "target": "LINE_1_ST_003",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_003",
+      "source": "LINE_1_ST_003",
+      "target": "LINE_1_ST_004",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_004",
+      "source": "LINE_1_ST_004",
+      "target": "LINE_1_ST_005",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_005",
+      "source": "LINE_1_ST_005",
+      "target": "LINE_1_ST_006",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_006",
+      "source": "LINE_1_ST_006",
+      "target": "LINE_1_ST_007",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_007",
+      "source": "LINE_1_ST_007",
+      "target": "LINE_1_ST_008",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_008",
+      "source": "LINE_1_ST_008",
+      "target": "LINE_1_ST_009",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_009",
+      "source": "LINE_1_ST_009",
+      "target": "LINE_1_ST_010",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_010",
+      "source": "LINE_1_ST_010",
+      "target": "LINE_1_ST_011",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_011",
+      "source": "LINE_1_ST_011",
+      "target": "LINE_1_ST_012",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_012",
+      "source": "LINE_1_ST_012",
+      "target": "LINE_1_ST_013",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_013",
+      "source": "LINE_1_ST_013",
+      "target": "LINE_1_ST_014",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_014",
+      "source": "LINE_1_ST_014",
+      "target": "LINE_1_ST_015",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_015",
+      "source": "LINE_1_ST_015",
+      "target": "LINE_1_ST_016",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_016",
+      "source": "LINE_1_ST_016",
+      "target": "LINE_1_ST_017",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_017",
+      "source": "LINE_1_ST_017",
+      "target": "LINE_1_ST_018",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_018",
+      "source": "LINE_1_ST_018",
+      "target": "LINE_1_ST_019",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_019",
+      "source": "LINE_1_ST_019",
+      "target": "LINE_1_ST_020",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_020",
+      "source": "LINE_1_ST_020",
+      "target": "LINE_1_ST_021",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_021",
+      "source": "LINE_1_ST_021",
+      "target": "LINE_1_ST_022",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_022",
+      "source": "LINE_1_ST_022",
+      "target": "LINE_1_ST_023",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_023",
+      "source": "LINE_1_ST_023",
+      "target": "LINE_1_ST_024",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_024",
+      "source": "LINE_1_ST_024",
+      "target": "LINE_1_ST_025",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_025",
+      "source": "LINE_1_ST_025",
+      "target": "LINE_1_ST_026",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_026",
+      "source": "LINE_1_ST_026",
+      "target": "LINE_1_ST_027",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_027",
+      "source": "LINE_1_ST_027",
+      "target": "LINE_1_ST_028",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_028",
+      "source": "LINE_1_ST_028",
+      "target": "LINE_1_ST_029",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_029",
+      "source": "LINE_1_ST_029",
+      "target": "LINE_1_ST_030",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_030",
+      "source": "LINE_1_ST_030",
+      "target": "LINE_1_ST_031",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_031",
+      "source": "LINE_1_ST_031",
+      "target": "LINE_1_ST_032",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_032",
+      "source": "LINE_1_ST_032",
+      "target": "LINE_1_ST_033",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_033",
+      "source": "LINE_1_ST_033",
+      "target": "LINE_1_ST_034",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_034",
+      "source": "LINE_1_ST_034",
+      "target": "LINE_1_ST_035",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_1_E_035",
+      "source": "LINE_1_ST_035",
+      "target": "LINE_1_ST_036",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_001",
+      "source": "LINE_10_ST_001",
+      "target": "LINE_10_ST_002",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_002",
+      "source": "LINE_10_ST_002",
+      "target": "LINE_10_ST_003",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_003",
+      "source": "LINE_10_ST_003",
+      "target": "LINE_10_ST_004",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_004",
+      "source": "LINE_10_ST_004",
+      "target": "LINE_10_ST_005",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_005",
+      "source": "LINE_10_ST_005",
+      "target": "LINE_10_ST_006",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_006",
+      "source": "LINE_10_ST_006",
+      "target": "LINE_10_ST_007",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_007",
+      "source": "LINE_10_ST_007",
+      "target": "LINE_10_ST_008",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_008",
+      "source": "LINE_10_ST_008",
+      "target": "LINE_10_ST_009",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_009",
+      "source": "LINE_10_ST_009",
+      "target": "LINE_10_ST_010",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_010",
+      "source": "LINE_10_ST_010",
+      "target": "LINE_10_ST_011",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_011",
+      "source": "LINE_10_ST_011",
+      "target": "LINE_10_ST_012",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_012",
+      "source": "LINE_10_ST_012",
+      "target": "LINE_10_ST_013",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_013",
+      "source": "LINE_10_ST_013",
+      "target": "LINE_10_ST_014",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_014",
+      "source": "LINE_10_ST_014",
+      "target": "LINE_10_ST_015",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_015",
+      "source": "LINE_10_ST_015",
+      "target": "LINE_10_ST_016",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_016",
+      "source": "LINE_10_ST_016",
+      "target": "LINE_10_ST_017",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_017",
+      "source": "LINE_10_ST_017",
+      "target": "LINE_10_ST_018",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_018",
+      "source": "LINE_10_ST_018",
+      "target": "LINE_10_ST_019",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_019",
+      "source": "LINE_10_ST_019",
+      "target": "LINE_10_ST_020",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_020",
+      "source": "LINE_10_ST_020",
+      "target": "LINE_10_ST_021",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_021",
+      "source": "LINE_10_ST_021",
+      "target": "LINE_10_ST_022",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_022",
+      "source": "LINE_10_ST_022",
+      "target": "LINE_10_ST_023",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_023",
+      "source": "LINE_10_ST_023",
+      "target": "LINE_10_ST_024",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_024",
+      "source": "LINE_10_ST_024",
+      "target": "LINE_10_ST_025",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_025",
+      "source": "LINE_10_ST_025",
+      "target": "LINE_10_ST_026",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_026",
+      "source": "LINE_10_ST_026",
+      "target": "LINE_10_ST_027",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_027",
+      "source": "LINE_10_ST_027",
+      "target": "LINE_10_ST_028",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_028",
+      "source": "LINE_10_ST_028",
+      "target": "LINE_10_ST_029",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_029",
+      "source": "LINE_10_ST_029",
+      "target": "LINE_10_ST_030",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_030",
+      "source": "LINE_10_ST_030",
+      "target": "LINE_10_ST_031",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_031",
+      "source": "LINE_10_ST_031",
+      "target": "LINE_10_ST_032",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_032",
+      "source": "LINE_10_ST_032",
+      "target": "LINE_10_ST_033",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_033",
+      "source": "LINE_10_ST_033",
+      "target": "LINE_10_ST_034",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_034",
+      "source": "LINE_10_ST_034",
+      "target": "LINE_10_ST_035",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_035",
+      "source": "LINE_10_ST_035",
+      "target": "LINE_10_ST_036",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_036",
+      "source": "LINE_10_ST_036",
+      "target": "LINE_10_ST_037",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_037",
+      "source": "LINE_10_ST_037",
+      "target": "LINE_10_ST_038",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_038",
+      "source": "LINE_10_ST_038",
+      "target": "LINE_10_ST_039",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_039",
+      "source": "LINE_10_ST_039",
+      "target": "LINE_10_ST_040",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_040",
+      "source": "LINE_10_ST_040",
+      "target": "LINE_10_ST_041",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_041",
+      "source": "LINE_10_ST_041",
+      "target": "LINE_10_ST_042",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_042",
+      "source": "LINE_10_ST_042",
+      "target": "LINE_10_ST_043",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_043",
+      "source": "LINE_10_ST_043",
+      "target": "LINE_10_ST_044",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_044",
+      "source": "LINE_10_ST_044",
+      "target": "LINE_10_ST_045",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_045",
+      "source": "LINE_10_ST_045",
+      "target": "LINE_10_ST_046",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_046",
+      "source": "LINE_10_ST_046",
+      "target": "LINE_10_ST_047",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_047",
+      "source": "LINE_10_ST_047",
+      "target": "LINE_10_ST_048",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_048",
+      "source": "LINE_10_ST_048",
+      "target": "LINE_10_ST_049",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_049",
+      "source": "LINE_10_ST_049",
+      "target": "LINE_10_ST_050",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_050",
+      "source": "LINE_10_ST_050",
+      "target": "LINE_10_ST_051",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_051",
+      "source": "LINE_10_ST_051",
+      "target": "LINE_10_ST_052",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_10_E_052",
+      "source": "LINE_10_ST_052",
+      "target": "LINE_10_ST_053",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_11_E_001",
+      "source": "LINE_11_ST_001",
+      "target": "LINE_11_ST_002",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_11_E_002",
+      "source": "LINE_11_ST_002",
+      "target": "LINE_11_ST_003",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_11_E_003",
+      "source": "LINE_11_ST_003",
+      "target": "LINE_11_ST_004",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_12_E_001",
+      "source": "LINE_12_ST_001",
+      "target": "LINE_12_ST_002",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_12_E_002",
+      "source": "LINE_12_ST_002",
+      "target": "LINE_12_ST_003",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_12_E_003",
+      "source": "LINE_12_ST_003",
+      "target": "LINE_12_ST_004",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_12_E_004",
+      "source": "LINE_12_ST_004",
+      "target": "LINE_12_ST_005",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_12_E_005",
+      "source": "LINE_12_ST_005",
+      "target": "LINE_12_ST_006",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_12_E_006",
+      "source": "LINE_12_ST_006",
+      "target": "LINE_12_ST_007",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_12_E_007",
+      "source": "LINE_12_ST_007",
+      "target": "LINE_12_ST_008",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_12_E_008",
+      "source": "LINE_12_ST_008",
+      "target": "LINE_12_ST_009",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_12_E_009",
+      "source": "LINE_12_ST_009",
+      "target": "LINE_12_ST_010",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_12_E_010",
+      "source": "LINE_12_ST_010",
+      "target": "LINE_12_ST_011",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_12_E_011",
+      "source": "LINE_12_ST_011",
+      "target": "LINE_12_ST_012",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_12_E_012",
+      "source": "LINE_12_ST_012",
+      "target": "LINE_12_ST_013",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_12_E_013",
+      "source": "LINE_12_ST_013",
+      "target": "LINE_12_ST_014",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_12_E_014",
+      "source": "LINE_12_ST_014",
+      "target": "LINE_12_ST_015",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_12_E_015",
+      "source": "LINE_12_ST_015",
+      "target": "LINE_12_ST_016",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_12_E_016",
+      "source": "LINE_12_ST_016",
+      "target": "LINE_12_ST_017",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_13_E_001",
+      "source": "LINE_13_ST_001",
+      "target": "LINE_13_ST_002",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_13_E_002",
+      "source": "LINE_13_ST_002",
+      "target": "LINE_13_ST_003",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_13_E_003",
+      "source": "LINE_13_ST_003",
+      "target": "LINE_13_ST_004",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_13_E_004",
+      "source": "LINE_13_ST_004",
+      "target": "LINE_13_ST_005",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_13_E_005",
+      "source": "LINE_13_ST_005",
+      "target": "LINE_13_ST_006",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_13_E_006",
+      "source": "LINE_13_ST_006",
+      "target": "LINE_13_ST_007",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_13_E_007",
+      "source": "LINE_13_ST_007",
+      "target": "LINE_13_ST_008",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_13_E_008",
+      "source": "LINE_13_ST_008",
+      "target": "LINE_13_ST_009",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_13_E_009",
+      "source": "LINE_13_ST_009",
+      "target": "LINE_13_ST_010",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_13_E_010",
+      "source": "LINE_13_ST_010",
+      "target": "LINE_13_ST_011",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_13_E_011",
+      "source": "LINE_13_ST_011",
+      "target": "LINE_13_ST_012",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_13_E_012",
+      "source": "LINE_13_ST_012",
+      "target": "LINE_13_ST_013",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_13_E_013",
+      "source": "LINE_13_ST_013",
+      "target": "LINE_13_ST_014",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_13_E_014",
+      "source": "LINE_13_ST_014",
+      "target": "LINE_13_ST_015",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_13_E_015",
+      "source": "LINE_13_ST_015",
+      "target": "LINE_13_ST_016",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_13_E_016",
+      "source": "LINE_13_ST_016",
+      "target": "LINE_13_ST_017",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_2_E_001",
+      "source": "LINE_2_ST_001",
+      "target": "LINE_2_ST_002",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_2_E_002",
+      "source": "LINE_2_ST_002",
+      "target": "LINE_2_ST_003",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_2_E_003",
+      "source": "LINE_2_ST_003",
+      "target": "LINE_2_ST_004",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_2_E_004",
+      "source": "LINE_2_ST_004",
+      "target": "LINE_2_ST_005",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_2_E_005",
+      "source": "LINE_2_ST_005",
+      "target": "LINE_2_ST_006",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_2_E_006",
+      "source": "LINE_2_ST_006",
+      "target": "LINE_2_ST_007",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_2_E_007",
+      "source": "LINE_2_ST_007",
+      "target": "LINE_2_ST_008",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_2_E_008",
+      "source": "LINE_2_ST_008",
+      "target": "LINE_2_ST_009",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_2_E_009",
+      "source": "LINE_2_ST_009",
+      "target": "LINE_2_ST_010",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_2_E_010",
+      "source": "LINE_2_ST_010",
+      "target": "LINE_2_ST_011",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_2_E_011",
+      "source": "LINE_2_ST_011",
+      "target": "LINE_2_ST_012",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_2_E_012",
+      "source": "LINE_2_ST_012",
+      "target": "LINE_2_ST_013",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_2_E_013",
+      "source": "LINE_2_ST_013",
+      "target": "LINE_2_ST_014",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_2_E_014",
+      "source": "LINE_2_ST_014",
+      "target": "LINE_2_ST_015",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_2_E_015",
+      "source": "LINE_2_ST_015",
+      "target": "LINE_2_ST_016",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_2_E_016",
+      "source": "LINE_2_ST_016",
+      "target": "LINE_2_ST_017",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_2_E_017",
+      "source": "LINE_2_ST_017",
+      "target": "LINE_2_ST_018",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_3_E_001",
+      "source": "LINE_3_ST_001",
+      "target": "LINE_3_ST_002",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_3_E_002",
+      "source": "LINE_3_ST_002",
+      "target": "LINE_3_ST_003",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_3_E_003",
+      "source": "LINE_3_ST_003",
+      "target": "LINE_3_ST_004",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_3_E_004",
+      "source": "LINE_3_ST_004",
+      "target": "LINE_3_ST_005",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_3_E_005",
+      "source": "LINE_3_ST_005",
+      "target": "LINE_3_ST_006",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_3_E_006",
+      "source": "LINE_3_ST_006",
+      "target": "LINE_3_ST_007",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_3_E_007",
+      "source": "LINE_3_ST_007",
+      "target": "LINE_3_ST_008",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_001",
+      "source": "LINE_4_ST_001",
+      "target": "LINE_4_ST_002",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_002",
+      "source": "LINE_4_ST_002",
+      "target": "LINE_4_ST_003",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_003",
+      "source": "LINE_4_ST_003",
+      "target": "LINE_4_ST_004",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_004",
+      "source": "LINE_4_ST_004",
+      "target": "LINE_4_ST_005",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_005",
+      "source": "LINE_4_ST_005",
+      "target": "LINE_4_ST_006",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_006",
+      "source": "LINE_4_ST_006",
+      "target": "LINE_4_ST_007",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_007",
+      "source": "LINE_4_ST_007",
+      "target": "LINE_4_ST_008",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_008",
+      "source": "LINE_4_ST_008",
+      "target": "LINE_4_ST_009",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_009",
+      "source": "LINE_4_ST_009",
+      "target": "LINE_4_ST_010",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_010",
+      "source": "LINE_4_ST_010",
+      "target": "LINE_4_ST_011",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_011",
+      "source": "LINE_4_ST_011",
+      "target": "LINE_4_ST_012",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_012",
+      "source": "LINE_4_ST_012",
+      "target": "LINE_4_ST_013",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_013",
+      "source": "LINE_4_ST_013",
+      "target": "LINE_4_ST_014",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_014",
+      "source": "LINE_4_ST_014",
+      "target": "LINE_4_ST_015",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_015",
+      "source": "LINE_4_ST_015",
+      "target": "LINE_4_ST_016",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_016",
+      "source": "LINE_4_ST_016",
+      "target": "LINE_4_ST_017",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_017",
+      "source": "LINE_4_ST_017",
+      "target": "LINE_4_ST_018",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_018",
+      "source": "LINE_4_ST_018",
+      "target": "LINE_4_ST_019",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_019",
+      "source": "LINE_4_ST_019",
+      "target": "LINE_4_ST_020",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_020",
+      "source": "LINE_4_ST_020",
+      "target": "LINE_4_ST_021",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_021",
+      "source": "LINE_4_ST_021",
+      "target": "LINE_4_ST_022",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_022",
+      "source": "LINE_4_ST_022",
+      "target": "LINE_4_ST_023",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_023",
+      "source": "LINE_4_ST_023",
+      "target": "LINE_4_ST_024",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_024",
+      "source": "LINE_4_ST_024",
+      "target": "LINE_4_ST_025",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_025",
+      "source": "LINE_4_ST_025",
+      "target": "LINE_4_ST_026",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_026",
+      "source": "LINE_4_ST_026",
+      "target": "LINE_4_ST_027",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_027",
+      "source": "LINE_4_ST_027",
+      "target": "LINE_4_ST_028",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_028",
+      "source": "LINE_4_ST_028",
+      "target": "LINE_4_ST_029",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_029",
+      "source": "LINE_4_ST_029",
+      "target": "LINE_4_ST_030",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_030",
+      "source": "LINE_4_ST_030",
+      "target": "LINE_4_ST_031",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_031",
+      "source": "LINE_4_ST_031",
+      "target": "LINE_4_ST_032",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_032",
+      "source": "LINE_4_ST_032",
+      "target": "LINE_4_ST_033",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_033",
+      "source": "LINE_4_ST_033",
+      "target": "LINE_4_ST_034",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_4_E_034",
+      "source": "LINE_4_ST_034",
+      "target": "LINE_4_ST_035",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_5_E_001",
+      "source": "LINE_5_ST_001",
+      "target": "LINE_5_ST_002",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_5_E_002",
+      "source": "LINE_5_ST_002",
+      "target": "LINE_5_ST_003",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_5_E_003",
+      "source": "LINE_5_ST_003",
+      "target": "LINE_5_ST_004",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_5_E_004",
+      "source": "LINE_5_ST_004",
+      "target": "LINE_5_ST_005",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_5_E_005",
+      "source": "LINE_5_ST_005",
+      "target": "LINE_5_ST_006",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_5_E_006",
+      "source": "LINE_5_ST_006",
+      "target": "LINE_5_ST_007",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_5_E_007",
+      "source": "LINE_5_ST_007",
+      "target": "LINE_5_ST_008",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_5_E_008",
+      "source": "LINE_5_ST_008",
+      "target": "LINE_5_ST_009",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_5_E_009",
+      "source": "LINE_5_ST_009",
+      "target": "LINE_5_ST_010",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_5_E_010",
+      "source": "LINE_5_ST_010",
+      "target": "LINE_5_ST_011",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_5_E_011",
+      "source": "LINE_5_ST_011",
+      "target": "LINE_5_ST_012",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_5_E_012",
+      "source": "LINE_5_ST_012",
+      "target": "LINE_5_ST_013",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_5_E_013",
+      "source": "LINE_5_ST_013",
+      "target": "LINE_5_ST_014",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_5_E_014",
+      "source": "LINE_5_ST_014",
+      "target": "LINE_5_ST_015",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_5_E_015",
+      "source": "LINE_5_ST_015",
+      "target": "LINE_5_ST_016",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_5_E_016",
+      "source": "LINE_5_ST_016",
+      "target": "LINE_5_ST_017",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_5_E_017",
+      "source": "LINE_5_ST_017",
+      "target": "LINE_5_ST_018",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_5_E_018",
+      "source": "LINE_5_ST_018",
+      "target": "LINE_5_ST_019",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_5_E_019",
+      "source": "LINE_5_ST_019",
+      "target": "LINE_5_ST_020",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_5_E_020",
+      "source": "LINE_5_ST_020",
+      "target": "LINE_5_ST_021",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_5_E_021",
+      "source": "LINE_5_ST_021",
+      "target": "LINE_5_ST_022",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_5_E_022",
+      "source": "LINE_5_ST_022",
+      "target": "LINE_5_ST_023",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_001",
+      "source": "LINE_6_ST_001",
+      "target": "LINE_6_ST_002",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_002",
+      "source": "LINE_6_ST_002",
+      "target": "LINE_6_ST_003",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_003",
+      "source": "LINE_6_ST_003",
+      "target": "LINE_6_ST_004",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_004",
+      "source": "LINE_6_ST_004",
+      "target": "LINE_6_ST_005",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_005",
+      "source": "LINE_6_ST_005",
+      "target": "LINE_6_ST_006",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_006",
+      "source": "LINE_6_ST_006",
+      "target": "LINE_6_ST_007",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_007",
+      "source": "LINE_6_ST_007",
+      "target": "LINE_6_ST_008",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_008",
+      "source": "LINE_6_ST_008",
+      "target": "LINE_6_ST_009",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_009",
+      "source": "LINE_6_ST_009",
+      "target": "LINE_6_ST_010",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_010",
+      "source": "LINE_6_ST_010",
+      "target": "LINE_6_ST_011",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_011",
+      "source": "LINE_6_ST_011",
+      "target": "LINE_6_ST_012",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_012",
+      "source": "LINE_6_ST_012",
+      "target": "LINE_6_ST_013",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_013",
+      "source": "LINE_6_ST_013",
+      "target": "LINE_6_ST_014",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_014",
+      "source": "LINE_6_ST_014",
+      "target": "LINE_6_ST_015",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_015",
+      "source": "LINE_6_ST_015",
+      "target": "LINE_6_ST_016",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_016",
+      "source": "LINE_6_ST_016",
+      "target": "LINE_6_ST_017",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_017",
+      "source": "LINE_6_ST_017",
+      "target": "LINE_6_ST_018",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_018",
+      "source": "LINE_6_ST_018",
+      "target": "LINE_6_ST_019",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_019",
+      "source": "LINE_6_ST_019",
+      "target": "LINE_6_ST_020",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_020",
+      "source": "LINE_6_ST_020",
+      "target": "LINE_6_ST_021",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_021",
+      "source": "LINE_6_ST_021",
+      "target": "LINE_6_ST_022",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_022",
+      "source": "LINE_6_ST_022",
+      "target": "LINE_6_ST_023",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_023",
+      "source": "LINE_6_ST_023",
+      "target": "LINE_6_ST_024",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_024",
+      "source": "LINE_6_ST_024",
+      "target": "LINE_6_ST_025",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_025",
+      "source": "LINE_6_ST_025",
+      "target": "LINE_6_ST_026",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_026",
+      "source": "LINE_6_ST_026",
+      "target": "LINE_6_ST_027",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_027",
+      "source": "LINE_6_ST_027",
+      "target": "LINE_6_ST_028",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_028",
+      "source": "LINE_6_ST_028",
+      "target": "LINE_6_ST_029",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_029",
+      "source": "LINE_6_ST_029",
+      "target": "LINE_6_ST_030",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_030",
+      "source": "LINE_6_ST_030",
+      "target": "LINE_6_ST_031",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_031",
+      "source": "LINE_6_ST_031",
+      "target": "LINE_6_ST_032",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_032",
+      "source": "LINE_6_ST_032",
+      "target": "LINE_6_ST_033",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_033",
+      "source": "LINE_6_ST_033",
+      "target": "LINE_6_ST_034",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_034",
+      "source": "LINE_6_ST_034",
+      "target": "LINE_6_ST_035",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_035",
+      "source": "LINE_6_ST_035",
+      "target": "LINE_6_ST_036",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_036",
+      "source": "LINE_6_ST_036",
+      "target": "LINE_6_ST_037",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_037",
+      "source": "LINE_6_ST_037",
+      "target": "LINE_6_ST_038",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_038",
+      "source": "LINE_6_ST_038",
+      "target": "LINE_6_ST_039",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_039",
+      "source": "LINE_6_ST_039",
+      "target": "LINE_6_ST_040",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_040",
+      "source": "LINE_6_ST_040",
+      "target": "LINE_6_ST_041",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_041",
+      "source": "LINE_6_ST_041",
+      "target": "LINE_6_ST_042",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_042",
+      "source": "LINE_6_ST_042",
+      "target": "LINE_6_ST_043",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_043",
+      "source": "LINE_6_ST_043",
+      "target": "LINE_6_ST_044",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_044",
+      "source": "LINE_6_ST_044",
+      "target": "LINE_6_ST_045",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_045",
+      "source": "LINE_6_ST_045",
+      "target": "LINE_6_ST_046",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_046",
+      "source": "LINE_6_ST_046",
+      "target": "LINE_6_ST_047",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_047",
+      "source": "LINE_6_ST_047",
+      "target": "LINE_6_ST_048",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_048",
+      "source": "LINE_6_ST_048",
+      "target": "LINE_6_ST_049",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_049",
+      "source": "LINE_6_ST_049",
+      "target": "LINE_6_ST_050",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_050",
+      "source": "LINE_6_ST_050",
+      "target": "LINE_6_ST_051",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_6_E_051",
+      "source": "LINE_6_ST_051",
+      "target": "LINE_6_ST_052",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_9_E_001",
+      "source": "LINE_9_ST_001",
+      "target": "LINE_9_ST_002",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_9_E_002",
+      "source": "LINE_9_ST_002",
+      "target": "LINE_9_ST_003",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_9_E_003",
+      "source": "LINE_9_ST_003",
+      "target": "LINE_9_ST_004",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_9_E_004",
+      "source": "LINE_9_ST_004",
+      "target": "LINE_9_ST_005",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_9_E_005",
+      "source": "LINE_9_ST_005",
+      "target": "LINE_9_ST_006",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_9_E_006",
+      "source": "LINE_9_ST_006",
+      "target": "LINE_9_ST_007",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_9_E_007",
+      "source": "LINE_9_ST_007",
+      "target": "LINE_9_ST_008",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_9_E_008",
+      "source": "LINE_9_ST_008",
+      "target": "LINE_9_ST_009",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_9_E_009",
+      "source": "LINE_9_ST_009",
+      "target": "LINE_9_ST_010",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_9_E_010",
+      "source": "LINE_9_ST_010",
+      "target": "LINE_9_ST_011",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_9_E_011",
+      "source": "LINE_9_ST_011",
+      "target": "LINE_9_ST_012",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "line_9_E_012",
+      "source": "LINE_9_ST_012",
+      "target": "LINE_9_ST_013",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "s1_E_001",
+      "source": "S1_ST_001",
+      "target": "S1_ST_002",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "s1_E_002",
+      "source": "S1_ST_002",
+      "target": "S1_ST_003",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "s1_E_003",
+      "source": "S1_ST_003",
+      "target": "S1_ST_004",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "s1_E_004",
+      "source": "S1_ST_004",
+      "target": "S1_ST_005",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "s1_E_005",
+      "source": "S1_ST_005",
+      "target": "S1_ST_006",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "s1_E_006",
+      "source": "S1_ST_006",
+      "target": "S1_ST_007",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "s1_E_007",
+      "source": "S1_ST_007",
+      "target": "S1_ST_008",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "yizhuang_E_001",
+      "source": "YIZHUANG_ST_001",
+      "target": "YIZHUANG_ST_002",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "yizhuang_E_002",
+      "source": "YIZHUANG_ST_002",
+      "target": "YIZHUANG_ST_003",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "yizhuang_E_003",
+      "source": "YIZHUANG_ST_003",
+      "target": "YIZHUANG_ST_004",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "yizhuang_E_004",
+      "source": "YIZHUANG_ST_004",
+      "target": "YIZHUANG_ST_005",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "yizhuang_E_005",
+      "source": "YIZHUANG_ST_005",
+      "target": "YIZHUANG_ST_006",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "yizhuang_E_006",
+      "source": "YIZHUANG_ST_006",
+      "target": "YIZHUANG_ST_007",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "yizhuang_E_007",
+      "source": "YIZHUANG_ST_007",
+      "target": "YIZHUANG_ST_008",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "yizhuang_E_008",
+      "source": "YIZHUANG_ST_008",
+      "target": "YIZHUANG_ST_009",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "yizhuang_E_009",
+      "source": "YIZHUANG_ST_009",
+      "target": "YIZHUANG_ST_010",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    },
+    {
+      "edge_id": "yizhuang_E_010",
+      "source": "YIZHUANG_ST_010",
+      "target": "YIZHUANG_ST_011",
+      "distance_m": null,
+      "track_type": "双线",
+      "signal": null
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-01-31T19:35:31.609288",
+    "source": "user_txt"
+  }
+}

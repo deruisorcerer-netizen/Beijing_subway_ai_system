@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "7bbb1cac4beb6e4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbce0b49871c87a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05b3129d877dfe94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Function Calling  &&  MCP协议.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Function Calling  &&  MCP协议"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c1637b8784cdd8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c525c00bccab98f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d15b8d99b32f7066",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "414f1f3c2f27bb6b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ffac8d573bb95bc4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d61a47f9427e895c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ce5fc4a0451f9cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cc9c28ee957a486",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数据集搭建.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "数据集搭建 的反向链接列表"
+            }
+          },
+          {
+            "id": "95420515496eb22e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数据集搭建.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "数据集搭建 的出链列表"
+            }
+          },
+          {
+            "id": "7a863a43ebdd8bcf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "1b4d3ce7ffa8e21e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "4698173daece476c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数据集搭建.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "数据集搭建 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "05b3129d877dfe94",
+  "lastOpenFiles": [
+    "MCP实战.md",
+    "Function Calling  &&  MCP协议.md",
+    "目录.md",
+    "whiteboard_exported_image.png",
+    "image.png",
+    "9adab079-9726-4975-9f07-afa674b95971.png",
+    "mcp-simple-diagram.avif",
+    "Pasted image 20260202183140.png",
+    "Pasted image 20260202181721.png",
+    "数据集搭建.md",
+    "carbon (14).png",
+    "carbon (13) 1.png",
+    "carbon (13).png",
+    "carbon (12).png"
+  ]
+}
