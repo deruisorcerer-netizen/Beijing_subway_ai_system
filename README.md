@@ -20,10 +20,15 @@
 
 - 项目概述：
 	通过大模型微调+MCP协议下的数据库搭建和调用实现解决在北京地铁线路图中从A to B问题的Agent。
+
 		1.大模型微调利用Qwen2.5 - Instruct 7B模型，在LLaMA-Factory开源微调训练平台上训练
+  
 		2.微调数据来源于本项目文件中raw_lines文件夹中的txt文档，皆为地铁线路名+各站点的名称，通过fune-tuning-data中的脚本文件，生成同一文件夹下的微调数据。
+  
 		3.数据库搭建利用MCP_stuffs\data路径下的脚本文件build_subway_paths_database.py，分别按照路程最短和时间最优的方式生成SQLite数据库。
+  
 		4.将两数据库作为一个MCP Server并暴露寻找路程最短路径和寻找时间最优路径两个接口（拥有两个路由）。
+  
 		5.将AI应用（无实体，就是一个说法，实际上代表着整个前端）作为一个MCP Host，控制着一个MCP Client,这个Client利用微调后的Qwen模型自动判断根据用户需求而需要调用哪个路由或者方法去使用
 ---
 
