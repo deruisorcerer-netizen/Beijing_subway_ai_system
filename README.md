@@ -103,7 +103,8 @@ pip install -r requirements.txt
 | ![界面截图](Pasted%20image%2020260206124846.png) | ![规划示例](Pasted%20image%2020260206124943.png) | ![逻辑展示](Pasted%20image%2020260206125033.png) |
 
 ---
-使用方法：
+使用方法(有机细节，对快速开始的补充)：
+
 	下载仓库到本地，按照requirment.txt中的要求设置虚拟环境venv；
 	在  https://github.com/hiyouga/LlamaFactory  这个连接里下载LLaMA-Factory，并放进本项目的主文件夹里；
 	将本项目主文件夹下 LLaMA-Factory_api 里面所有的项目都拷贝到你刚才下载的LLaMA-Factory\src里面；
